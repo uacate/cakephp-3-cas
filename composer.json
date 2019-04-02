@@ -1,4 +1,3 @@
-
 {
     "name": "snelg/cakephp-3-cas",
     "description": "CAS Authentication for CakePHP 3",
@@ -20,5 +19,12 @@
         "psr-4": {
             "CasAuth\\Test\\": "tests"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:uazgraduatecollege/cakephp-3-cas.git"
+        }
+    ]
 }
+
