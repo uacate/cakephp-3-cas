@@ -1,5 +1,5 @@
 {
-    "name": "snelg/cakephp-3-cas",
+    "name": "uazgraduatecollege/cakephp-3-cas",
     "description": "CAS Authentication for CakePHP 3",
     "kewords": ["CAS", "authentication"],
     "license": "MIT",
